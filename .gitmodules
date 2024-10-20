@@ -1,0 +1,6 @@
+[submodule "external/nameof"]
+	path = external/nameof
+	url = https://github.com/hutorny/nameof
+[submodule "external/fixed_string"]
+	path = external/fixed_string
+	url = git@github.com:hutorny/fixed_string.git
